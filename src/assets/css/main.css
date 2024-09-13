@@ -1605,6 +1605,17 @@
 
 		}
 
+    @media (max-width: 768px) {
+      .image.flush {
+        /* Tus estilos aquí */
+        margin: 0;
+        display: block;
+        margin: 0 0 2rem 0;
+        width: 100%;
+      }
+    }
+
+
 		@media screen and (max-width: 980px) {
 
 			html {
